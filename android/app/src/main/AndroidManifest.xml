@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ui_desain">
+    package="com.junaaps.ui_desain">
    <application
         android:label="ui_desain"
         android:name="${applicationName}"
